@@ -3,13 +3,11 @@ layout: article
 title: Welcome
 markdownpage: true
 ---
-<center> <h1>Labtrac Team Documentation</h1> </center>
+# Labtrac Team Documentation
 
 - - - 
 
-This document provides a guide to Labtrac, covering everything from the initial set up to day to day running of the system. We will also try to answer the questions we are asked regularly in <a href="faqs">Frequently Asked Questions</a>.
-
-<a href name="labtracsupport"></a>
+This document provides a guide to Labtrac, covering everything from the initial set up to day to day running of the system. We will also try to answer the questions we are asked regularly in [Frequently Asked Questions](faqs).
 
 Some contact numbers that you may find useful:
 
@@ -28,10 +26,6 @@ You can also use;
 
 - - - 
 
-<a class="offset" name="#0.1"></a>
-
-<a class="offset" name="thisisatest"></a>
-<a class="offset" name="install"></a>
 ## Labtrac Installation
 
 When we need to Install Labtrac, carry out any training or resolve any issues we use TeamViewer. TeamViewer is a piece of software that allows us to access your system remotely, with your permission.
